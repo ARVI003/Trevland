@@ -1,0 +1,264 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 80%;
+  }
+  #see .see .swiper {
+    margin-left: -246px;
+  }
+  #see .see .swiper-slide {
+    margin-left: -1px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 151px;
+  }
+}
+@media (max-width: 1200px) {
+  #arvi .arvi--block {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  #arvi .arvi--block--oren {
+    margin-bottom: 62px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 243px;
+  }
+  #rion .rion--those--mission--minute {
+    flex-direction: column;
+  }
+  #see .see .swiper {
+    margin-left: -433px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 114px;
+  }
+}
+@media (max-width: 1024px) {
+  #see .see .swiper {
+    margin-left: -623px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 49px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 321px;
+  }
+}
+@media (max-width: 992px) {
+  #see .see .swiper {
+    margin-left: -638px;
+  }
+}
+@media (max-width: 768px) {
+  #header .header--btn {
+    height: 38px;
+  }
+  #header .header--nav {
+    display: none;
+  }
+  #hero .hero--title {
+    font-size: 50px;
+  }
+  #header .header .hamburger-menu {
+    display: block;
+  }
+  #header .header .menu__btn {
+    top: 16px;
+    right: 21px;
+  }
+  #rion .rion--those {
+    text-align: center;
+    flex-direction: column;
+  }
+  #see .see .swiper {
+    margin-left: -862px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 126px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 433px;
+  }
+  #rion .rion--those--weak--boring {
+    margin-bottom: 87px;
+  }
+  #footer .footer {
+    flex-direction: column;
+    text-align: center;
+  }
+  #footer .footer--army--dirty {
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  #footer .footer--army--dirty--fifty1 {
+    margin: 0 17px;
+  }
+  #footer .footer--army--dirty--fifty2 {
+    margin: 0 17px;
+  }
+  #footer .footer--army--dirty--fifty3 {
+    margin: 0 17px;
+  }
+  #footer .footer--army--dirty--fifty4 {
+    margin: 0 17px;
+  }
+  #footer .footer--foily {
+    margin-bottom: 37px;
+  }
+  #header .header .menu__box {
+    width: 320px;
+  }
+}
+@media (max-width: 576px) {
+  #header .header--btn {
+    display: none;
+  }
+  #header .hamburger__btn {
+    display: block;
+  }
+  #header .header .nav__btn {
+    display: block;
+    margin-left: 23px;
+  }
+  #hero {
+    min-height: 88vh;
+    padding-top: 168px;
+  }
+  #see .see--habit {
+    font-size: 22px;
+  }
+  #see .see .swiper {
+    margin-left: -1060px;
+  }
+  #see .see .swiper-slide {
+    margin-left: -4px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 534px;
+  }
+  #rion .rion--these {
+    font-size: 22px;
+  }
+  #rion .rion--those--weak--you {
+    width: 90%;
+  }
+  #rion .rion--those--mission--minute--ouy {
+    margin-bottom: 33px;
+  }
+  #see .see--eleven {
+    padding-top: 58px;
+  }
+}
+@media (max-width: 450px) {
+  #hero .hero--title {
+    text-align: center;
+    font-size: 34px;
+  }
+  #hero .hero--itmge {
+    text-align: center;
+    font-size: 16px;
+  }
+  #hero .hero--btn2 {
+    margin-left: 95px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 113px;
+  }
+  #see .see .swiper {
+    margin-left: -1180px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 588px;
+  }
+  #see .see--life--minus--sheep {
+    margin-left: -6px;
+  }
+  #see .see--life--minus--twelve {
+    margin-left: -16px;
+  }
+}
+@media (max-width: 425px) {
+  #hero .hero--itmge {
+    font-size: 15px;
+  }
+  #see .see .swiper {
+    margin-left: -1205px;
+  }
+  #see .see--habit {
+    font-size: 19px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 117px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 599px;
+  }
+  #rion .rion--team {
+    font-size: 41px;
+  }
+}
+@media (max-width: 380px) {
+  #hero .hero--itmge {
+    font-size: 13px;
+  }
+  #hero .hero--btn2 {
+    margin-left: 72px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 122px;
+  }
+  #see .see .swiper {
+    margin-left: -1251px;
+  }
+  #rion .rion {
+    padding-top: 50px;
+  }
+  #rion .rion--team {
+    font-size: 37px;
+  }
+  #footer .footer--lady--party input {
+    margin-bottom: 22px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 618px;
+  }
+}
+@media (max-width: 370px) {
+  #see .see .swiper {
+    margin-left: -1260px;
+  }
+}
+@media (max-width: 320px) {
+  #hero .hero--btn2 {
+    margin-left: 46px;
+  }
+  #header .header .menu__box {
+    width: 213px;
+  }
+  #arvi .arvi--block--oren__imgi {
+    width: 100%;
+  }
+  #arvi .arvi {
+    padding-top: 1px;
+  }
+  #arvi .arvi--block--oren--title2 {
+    padding-top: 59px;
+  }
+  #arvi .arvi--block--oren--itlmg2 {
+    padding-top: 20px;
+  }
+  #see .see .swiper {
+    margin-left: -1311px;
+  }
+  #see .see .swiper-slide {
+    margin-left: 130px;
+  }
+  .swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    left: 645px;
+  }
+  #footer {
+    margin: 37px 0 0 0;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
